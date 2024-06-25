@@ -1,4 +1,5 @@
-### Hello, I'm Maisy!💻 (she/her)
+### Hello, I'm Maisy!💻 
+(she/her)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/maisy-earl/">
