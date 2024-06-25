@@ -1,11 +1,12 @@
 ### Hello, I'm Maisy!💻 (she/her)
-Get in Touch!📧
+
+Contact me!
+
+📧 maisyeliza34@gmail.com
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/maisy-earl/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="maisyeliza34@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
