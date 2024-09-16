@@ -11,7 +11,7 @@
 ### :woman_technologist: About Me :
 ✨ I'm currently a rising sophomore at Lehigh University studying Computer Science and Engineering.
 
-✨ I have experience coding in Java and Python, and I'm currently learning C.
+✨ I have experience coding in Java, Python, HTML, and I'm currently learning C. I also have experience with coding in Linux.
 
 ✨ I plan to upload personal projects and my progress learning new languages.
 
@@ -29,6 +29,9 @@ Get in Touch!
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg?short_path=d0841f2" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
 </div>
 
 ---
